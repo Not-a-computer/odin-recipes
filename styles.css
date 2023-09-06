@@ -3,7 +3,36 @@
     border: 0%;
 }
 
+body {
+    background-color: rgb(255, 200, 234);
+}
+
+p {
+    background-color: rgb(206, 255, 255);
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+h2 {
+    font-size: x-large;
+}
+
+ul {
+    background-color: rgb(209, 240, 206);
+}
+
+ol {
+    background-color: rgb(254, 255, 167);
+}
+
 #lasagna {
+    width: 50%;
+    height: auto;
+}
+
+#fried-rice {
     width: 50%;
     height: auto;
 }
@@ -11,4 +40,16 @@
 #scrambled-eggs {
     width: 50%;
     height: auto;
+}
+
+#recipe-links {
+    width: 33%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    font-size: 100%;
+}
+
+.link {
+    color: black;
+    font-size: xx-large;
 }
